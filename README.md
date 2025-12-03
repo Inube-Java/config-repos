@@ -1,2 +1,2 @@
 # inube-config-repo
-Repositorio con ls configuración del proyecto ABA
+Repositorio con ls configuración del proyecto Inube
